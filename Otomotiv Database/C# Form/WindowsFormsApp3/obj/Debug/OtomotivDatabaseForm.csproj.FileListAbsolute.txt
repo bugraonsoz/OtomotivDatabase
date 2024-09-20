@@ -1,0 +1,11 @@
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\OtomotivDatabaseForm.csproj.AssemblyReference.cache
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\OtomotivDatabaseForm.csproj.GenerateResource.cache
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\OtomotivDatabaseForm.csproj.CoreCompileInputs.cache
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\bugra\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
